@@ -2,8 +2,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
 
-Implementação do algoritmo **Insertion Sort** em duas versões:
-
+Implementação do algoritmo **Insertion Sort** 
 ---
 
 ## 📌 Descrição
