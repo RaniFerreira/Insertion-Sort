@@ -11,8 +11,6 @@ Implementação do algoritmo **Insertion Sort** em duas versões:
 O **Insertion Sort** é um algoritmo de ordenação simples, estável e eficiente para listas pequenas ou quase ordenadas.  
 Ele funciona inserindo cada elemento na posição correta dentro de uma parte já ordenada do vetor.
 
-### Diferenças entre as versões
-
 ---
 
 ## 🚀 Funcionalidades
@@ -20,14 +18,14 @@ Ele funciona inserindo cada elemento na posição correta dentro de uma parte j�
 - Ordenação de listas em **ordem crescente**  
 - Exibição do **estado do vetor a cada iteração**  
 - Indicação das **trocas realizadas**  
-
+![Texto alternativo](img/teste.png)
 ---
 
-## 🧩 Exemplo de Uso
+## 🧩 Teste
 
-```python
-# Versão simples
-vetor = [7, 2, 4, 1, 5, 3]
-insertion_sort(vetor)
 
-## Teste
+
+
+Conclusão – Insertion Sort Simples
+
+O Insertion Sort simples é um algoritmo de ordenação fácil de entender e implementar, sendo ideal para listas pequenas ou quase ordenadas. Ele insere cada elemento na posição correta, deslocando os maiores para a direita. Apesar de sua simplicidade, apresenta complexidade O(n²) no pior e no caso médio, o que o torna ineficiente para listas muito grandes. No entanto, para pequenos conjuntos de dados, ele é rápido, estável e eficiente, além de permitir acompanhar facilmente o processo de ordenação passo a passo.
